@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="校园宣传片项目封面">
+  <rect width="800" height="500" fill="#F2F3F5"/>
+  <rect x="0" y="0" width="800" height="10" fill="#16181D"/>
+  <rect x="620" y="0" width="180" height="10" fill="#E08700"/>
+  <rect x="110" y="110" width="440" height="280" fill="#16181D"/>
+  <path d="M280 180 L400 250 L280 320 Z" fill="#E08700"/>
+  <rect x="110" y="110" width="440" height="280" fill="none" stroke="#16181D" stroke-width="10"/>
+  <g fill="#16181D">
+    <rect x="580" y="140" width="120" height="10"/>
+    <rect x="580" y="170" width="90" height="10"/>
+    <rect x="580" y="200" width="120" height="10"/>
+  </g>
+  <g stroke="#A7AEB9" stroke-width="8">
+    <line x1="110" y1="430" x2="700" y2="430"/>
+  </g>
+  <rect x="580" y="280" width="120" height="120" fill="#D3D7DE"/>
+  <rect x="580" y="280" width="40" height="40" fill="#E08700"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="戏剧项目封面">
+  <rect width="800" height="500" fill="#16181D"/>
+  <rect x="0" y="0" width="800" height="10" fill="#E08700"/>
+  <rect x="120" y="90" width="560" height="320" fill="#F2F3F5"/>
+  <rect x="120" y="90" width="560" height="40" fill="#E08700"/>
+  <circle cx="400" cy="250" r="86" fill="none" stroke="#16181D" stroke-width="14"/>
+  <circle cx="400" cy="250" r="30" fill="#E08700"/>
+  <rect x="120" y="370" width="560" height="40" fill="#D3D7DE"/>
+  <g stroke="#16181D" stroke-width="10">
+    <line x1="120" y1="90" x2="120" y2="410"/>
+    <line x1="680" y1="90" x2="680" y2="410"/>
+  </g>
+  <g fill="#5A6270">
+    <rect x="180" y="430" width="120" height="14"/>
+    <rect x="340" y="430" width="120" height="14"/>
+    <rect x="500" y="430" width="120" height="14"/>
+  </g>
+</svg>
